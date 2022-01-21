@@ -108,9 +108,11 @@ class Bocadillo(
     }
 }
 /*b) ¿Que beneficios obtienes al usar una clase abstracta? ¿Y de una interface?
+Al usar una clase abstracta podemos definir tipos que permitan múltiples implementaciones.
+Al utilizar una interfaz nos da mucha mayor versatilidad a la hora de organizar nuestro código.
 
 c) ¿Que modificadores y mecanismos has utilizado para bloquear y forzar la herencia de clases y métodos?
-
+He utilizado override y private.
  */
 
 fun main() {
